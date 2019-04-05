@@ -1,0 +1,8 @@
+
+    Here, you choose a name for your app.
+    This field shows the project type again (which you selected on the previous wizard page).
+    Depending on the project type, this field may offer some options on what code to auto-generate. If you are new to JUCE, the default selection is usually the best way to go to auto-generate everything you need and get you going quickly.
+    The JUCE framework code is organised into modules. So you need to tell your project where the JUCE modules are located. Here, you specify the location of the modules subfolder located inside the JUCE folder you installed earlier.
+    Here, you choose the folder where the Projucer should create your project. (Note: this is completely independent from the location where the JUCE modules folder is.)
+    Here, you select which native IDEs you want to use to build and debug your app. This also defines the desktop and mobile platforms that your app will support. Don't worry, this is not a final choice — with the Projucer, you can add additional platforms and IDEs later.
+    When you have reviewed all your settings, click the Create button to actually generate the Projucer project at the location you specified.
